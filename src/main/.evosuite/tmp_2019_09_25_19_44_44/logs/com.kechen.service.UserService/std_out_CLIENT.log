@@ -1,0 +1,3 @@
+[MASTER] 19:45:07.245 [pool-2-thread-1] WARN  TestSuiteSerialization - Cannot load tests because file does not exist: /Users/victor/IdeaProjects/lootcode/src/main/.evosuite/evosuite-seeds/com.kechen.service.UserService.seed
+[MASTER] 19:45:07.393 [pool-2-thread-1] WARN  TimeController - Phase INITIALIZATION lasted too long, 9 seconds more than allowed.
+[MASTER] 19:45:16.025 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: No generators of type class java.lang.Object
