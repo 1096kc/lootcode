@@ -1,0 +1,3 @@
+[MASTER] 20:18:54.811 [pool-2-thread-1] WARN  TimeController - Phase INITIALIZATION lasted too long, 28 seconds more than allowed.
+[MASTER] 20:19:47.571 [pool-2-thread-1] WARN  TimeController - Current phase JUNIT_CHECK could run up to 8s, but only 7s are left
+[MASTER] 20:19:54.173 [pool-2-thread-1] WARN  TimeController - Current phase WRITING_TESTS could run up to 8s, but only 0s are left

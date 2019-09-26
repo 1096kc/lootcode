@@ -1,0 +1,6 @@
+[MASTER] 20:17:31.931 [pool-2-thread-1] WARN  TimeController - Phase INITIALIZATION lasted too long, 23 seconds more than allowed.
+[MASTER] 20:17:45.296 [pool-2-thread-1] WARN  TestFactory - Bounded variable issue when calling createVariable()
+[MASTER] 20:17:45.297 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: No objects and generators for type class com.kechen.service.ProblemService
+[MASTER] 20:17:49.683 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: No generators of type java.util.Set<com.kechen.domain.Problem_Company>
+[MASTER] 20:18:09.692 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: No generators of type class java.lang.Object
+[MASTER] 20:19:01.261 [pool-2-thread-1] WARN  TimeController - Current phase WRITING_TESTS could run up to 11s, but only 9s are left

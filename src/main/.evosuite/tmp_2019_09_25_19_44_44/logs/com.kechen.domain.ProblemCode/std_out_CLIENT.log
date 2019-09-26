@@ -1,2 +1,0 @@
-[MASTER] 19:48:35.677 [pool-2-thread-1] WARN  TestSuiteSerialization - Cannot load tests because file does not exist: /Users/victor/IdeaProjects/lootcode/src/main/.evosuite/evosuite-seeds/com.kechen.domain.ProblemCode.seed
-[MASTER] 19:48:35.765 [pool-2-thread-1] WARN  TimeController - Phase INITIALIZATION lasted too long, 4 seconds more than allowed.

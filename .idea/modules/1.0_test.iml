@@ -104,6 +104,7 @@
     <orderEntry type="library" name="Gradle: org.apache.tomcat:tomcat-juli:8.5.11" level="project" />
     <orderEntry type="library" name="Gradle: stax:stax-api:1.0.1" level="project" />
     <orderEntry type="library" name="Gradle: ch.qos.logback:logback-core:1.1.11" level="project" />
+    <orderEntry type="library" name="evosuite-1.0.6" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="1.0_main" />
 </module>
